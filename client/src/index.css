@@ -1,0 +1,11 @@
+/* client/src/index.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+  That's it! 
+  We don't need any other global styles. 
+  Our tailwind.config.js and DaisyUI theme will handle everything else.
+*/
